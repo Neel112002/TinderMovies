@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681734243165",
+    "project_id": "tinderformovies-32bdb",
+    "storage_bucket": "tinderformovies-32bdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681734243165:android:b90b742885da0bedfe5eb4",
+        "android_client_info": {
+          "package_name": "com.mycompany.tinderformovies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSpYPcb1Ns0lgJ6pXgaQ_maa-Z124xFnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
